@@ -1,0 +1,5 @@
+this sample text file
+[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C,that is ok[B[A
+
+
+[A[A[D[D[D[C[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
